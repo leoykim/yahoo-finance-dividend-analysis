@@ -6,4 +6,4 @@ Outputs graphs to display historical dividend yield and amount
   
 ![Graph](graph-dividend.png)
   
-![Graph](graph-dividend-zoomed.png)
+![Graph](graph-dividend-zoom-and-hover.png)
