@@ -6,5 +6,5 @@ Outputs graphs to display historical dividend yield and amount
   
 ![Graph](graph-dividend.png)
   
+Below: shorter time period selected and hover text displayed:  
 ![Graph](graph-dividend-zoom-and-hover.png)  
-Shorter time period selected and hover text displayed:
